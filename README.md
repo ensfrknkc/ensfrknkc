@@ -11,7 +11,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?&style=flat&logo=C#)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -24,10 +24,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&style=flat&logo=angular&logoColor=white)\
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)\
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)\
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase)\
-![MySql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)\
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?&style=flat&logo=unity&logoColor=white)\
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=Flutter&logoColor=white)\
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=flat&logo=firebase)\
+![MySql](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)\
 
 
 ### ⚙️ &nbsp;GitHub Analytics
