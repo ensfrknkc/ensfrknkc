@@ -23,11 +23,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&style=flat&logo=angular&logoColor=white)\
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?&style=flat&logo=unity&logoColor=white)\
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=Flutter&logoColor=white)\
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=flat&logo=firebase)\
-![MySql](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)\
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?&style=flat&logo=unity&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=Flutter&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=flat&logo=firebase)&nbsp;
+![MySql](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
