@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I love learning new technologies, improving myself and producing.\
-🎓 &nbsp;I am currently a senior student at the Department of Computer Engineering at Karabuk University.\
+🎓 &nbsp;I graduated from Karbuk University Computer Engineering Department..\
 🌱 &nbsp;I'm on my way to become a web developer.\
 ✍️ &nbsp;I am interested in graphic design in my spare time.\
 ✉️ &nbsp;You can shoot me an email at ensfrknkc58@gmail.com! I'll try to respond as soon as I can.\
